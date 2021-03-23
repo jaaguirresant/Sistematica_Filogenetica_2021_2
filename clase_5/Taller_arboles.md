@@ -32,7 +32,7 @@ plot(vert.tree)
 Finalmente, podemos exportar el árbol con la función "write.tree"
 
 ```
-write.tree(tree, file = "Árbol_tetrapodos.tre")
+write.tree(vert.tree, file = "Árbol_tetrapodos.tre")
 ```
 
 **Tarea:** Dibujar un árbol filogenético de los animales usando únicamente 8 terminales y exportarlo a un archivo.
