@@ -47,5 +47,13 @@ B. Disponibilidad técnica (conexión a internet) para las sesiones virtuales. S
 
 Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimizar la presencialidad en las sesiones virtuales, este módulo está principalmente enfocado en talleres y lecturas en casa. Las sesiones virtuales estarán limitadas a clases cortas sobre conceptos fundamentales de los métodos, explicación de las tareas, resolución de dudas y presentación de resultados. Todas las presentaciones con diapositivas, artículos y talleres serán subidos a esta plataforma en su debido momento. Se recomienda enfáticamente replicar los ejercicios practicados en clase con los datos de sus proyecto de semestre.
 
+## Contenido
 
+**[Clase 1](/clase_1/Taller_matrices.md).**
+
+**PARTE 1. Repaso y corto taller de manejo de matrices y datos en R.** se hará un breve repaso de los recursos informáticos para construcción de matrices con editor de texto, el programa Mesquite y R. Descargar la presentación [aquí](/clase_1/Clase_1.pdf). Para esta parte se deben descargar las siguientes matrices para este ejercicio: [ADN.tnt](/clase_1/ADN.tnt), [morfologia.tnt](/clase_1/morfologia.tnt),[morfologia.nex](/clase_1/morfologia.nex), [ADN.nex](/clase_1/ADN.nex), [ADN.phy](/clase_1/ADN.phy). 
+
+**[IR AL TALLER](/clase_1/Taller_matrices.md)**
+
+**PARTE 2.Taller de visualización y manipulación de archivos de árboles filogenéticos** Para esta parte de la clase haremos un ejercicio práctico en R para visualizar y manipular árboles filogenéticos ([Descargar taller aquí](/clase_5/Taller_arboles.md))
 
