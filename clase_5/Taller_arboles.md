@@ -21,20 +21,7 @@ library(phytools)
 
 ## 1. Generar un árbol manual.
 
-Primero, crear la base del árbol con dos taxones para poder enraizar los otros taxones.
-
-```
-tree<-pbtree(n=2,tip.label=c("Salamandra","humano"))
-```
-
-Con la función bind.tip podemos agregar interactivamente nuevas especies a la rama que queramos:
-
-```
-tips<-c("Rana","Serpiente","Ave")
-for(i in 1:length(tips)) tree<-bind.tip(tree,tips[i],interactive=TRUE)
-```
-
-También podemos hacer el árbol manualmente usando el formato Newick (parentético) y la función "read.tree":
+Podemos hacer el árbol manualmente usando el formato Newick (parentético) y la función "read.tree":
 
 ```
 tt="(((((((vaca, cerdo),ballena),(murciélago,(lemur,humano))),(cardenal,iguana)),coelacanto),bagre),tiburón);"
