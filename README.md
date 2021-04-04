@@ -61,34 +61,20 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 #
 
-**[Clase 2](/clase_2/Taller_2.md). Inferencia Filogenética: orígenes, criterio de optimalidad y máxima parsimonia.** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética. Además, se define el concepto de "criterio de optimalidad" para la inferencia filogenética y se presenta el primer método que incorpora este criterio: la Máxima Parsimonia (Descargar diapositivas [aquí](/Clase_3/Clase_3.pdf))
-
-
-Descargar diapositivas [aquí](/clase_2/Clase_2.pdf). Para la parte práctica hacer el taller de ejercicios manuales con datos morfológicos para inferir árboles filogenéticos usando UPGMA y argumentación Hennigiana. 
-
-**[IR AL TALLER 2](/clase_2/Taller_2.md)**
-
-
-
-**_NOTA:_** Para esta y las próximas dos clases se requiere leer los siguientes artículos:
-
-- Métodos de distancia: [Van de Peer 2009](/clase_2/distancia.pdf)
-
-- Argumentación Hennigiana y Máxima Parsimonia: [Wiley & Lieberman 2011 - Capítulo 6](/clase_2/MP_Wiley_Lieberman.pdf)
-
-#
-
-**[Clase 3](/Clase_3/Taller_MP1.md). Criterio de optimalidad y Máxima Parsimonia.** En esta clase se define el concepto de "criterio de optimalidad" para la inferencia filogenética y se presenta el primer método que incorpora este criterio: la Máxima Parsimonia (Descargar diapositivas [aquí](/Clase_3/Clase_3.pdf)). Esta clase se complementa con un taller básico de inferencia manual de hipótesis filogenéticas usando este método. 
-
-**[IR AL TALLER 3](/Clase_3/Taller_MP1.md)**
+**[Clase 2](/clase_2/Taller_2.md). Inferencia Filogenética: orígenes, criterio de optimalidad y máxima parsimonia.** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética. Además, se define el concepto de "criterio de optimalidad" para la inferencia filogenética y se presenta el primer método que incorpora este criterio: la Máxima Parsimonia (Descargar diapositivas [aquí](/clase_2/Clase_2.pdf))
 
 <p align="center">
   <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/Clase_3/Strict.png" width="250" height="200" />
 </p>
 
-**NOTA:** Para la próxima clase leer los siguientes artículos: 
+Como complemento de la clase, cada estudiante deberá hacer el siguiente taller y subrilo al Drive hasta el viernes 9 de abril de 2021:
 
-- [Wiens 2011](/Clase_3/Wiens_2011.pdf)
+**[IR AL TALLER 2](/clase_2/Taller_2.md)**
+
+
+**_NOTA:_** Leer los siguientes artículos para la clase del miércoles 7 de abril de 2021:
+
+- Argumentación Hennigiana y Máxima Parsimonia: [Wiley & Lieberman 2011 - Capítulo 6](/clase_2/MP_Wiley_Lieberman.pdf)
 
 - [González 1999](/Clase_3/Gonzalez_1999_Aristolochia.pdf)
 
