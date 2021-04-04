@@ -21,7 +21,7 @@ _[Volver a inicio](/README.md)_
 
 Suponga que el siguiente es el mejor árbol filogenético de las relaciones evolutivas de los tetrápodos:
 
-![](/clase_3/Arbol_tetrapodos.png)
+![](/Clase_3/Arbol_tetrapodos.png)
 
 Este árbol fue inferido con base en la siguiente matriz de secuencias de ADN:
 
@@ -43,7 +43,7 @@ Usando esta matriz y el árbol:
 
 Considere las tres hipótesis filogenéticas y la matriz de caracteres de la siguiente figura:
 
-![](/clase_3/Ejercicio_2.jpg)
+![](/Clase_3/Ejercicio_2.jpg)
 
 Con base en esta información:
 
@@ -57,7 +57,7 @@ Con base en esta información:
 
 Con base en el árbol filogenético y matriz de caracteres de la siguiente figura:
 
-![](/clase_3/Ejercicio_3.jpg)
+![](/Clase_3/Ejercicio_3.jpg)
 
 1. Optimice los caracteres en el árbol.
 
@@ -71,7 +71,7 @@ Con base en el árbol filogenético y matriz de caracteres de la siguiente figur
 
 Con base al siguiente árbol y el caracter ilustrado en la siguiente figura:
 
-![](/clase_3/Ejercicio_4.png)
+![](/Clase_3/Ejercicio_4.png)
 
 1. Optimice el caracter usando la optmización ACCTRAN y estime el número de pasos del caracter.
 
@@ -81,7 +81,7 @@ Con base al siguiente árbol y el caracter ilustrado en la siguiente figura:
 
 Los tres árboles de la siguiente figura son los más parsimoniosos de tres análisis de Máxima Parsimonia realizados independientemente a partir de matrices de los marcadores de ADN: COI, 28S y NADH.
 
-![](/clase_3/Ejercicio_5.jpg)
+![](/Clase_3/Ejercicio_5.jpg)
 
 Con base en este resultado:
 
