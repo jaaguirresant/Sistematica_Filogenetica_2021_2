@@ -61,7 +61,7 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 #
 
-**[Clase 2](/clase_2/Clase_2.pdf). Inferencia Filogenética: orígenes, criterio de optimalidad y máxima parsimonia.** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética. Además, se define el concepto de "criterio de optimalidad" para la inferencia filogenética y se presenta el primer método que incorpora este criterio: la Máxima Parsimonia (Descargar diapositivas [aquí](/clase_2/Clase_2.pdf))
+**[Clase 2](/clase_2/clase_2.pdf). Inferencia Filogenética: orígenes, criterio de optimalidad y máxima parsimonia.** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética. Además, se define el concepto de "criterio de optimalidad" para la inferencia filogenética y se presenta el primer método que incorpora este criterio: la Máxima Parsimonia (Descargar diapositivas [aquí](/clase_2/clase_2.pdf))
 
 <p align="center">
   <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/Clase_3/Strict.png" width="250" height="200" />
