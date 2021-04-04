@@ -53,11 +53,11 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 **PARTE 1. Repaso y corto taller de manejo de matrices y datos en R.** se hará un breve repaso de los recursos informáticos para construcción de matrices con editor de texto, el programa Mesquite y R. Descargar la presentación [aquí](/clase_1/Clase_1.pdf). Para esta parte se deben descargar las siguientes matrices para este ejercicio: [ADN.tnt](/clase_1/ADN.tnt), [morfologia.tnt](/clase_1/morfologia.tnt),[morfologia.nex](/clase_1/morfologia.nex), [ADN.nex](/clase_1/ADN.nex), [ADN.phy](/clase_1/ADN.phy). 
 
-**[Descargar taller aquí](/clase_1/Taller_matrices.md)**
+**[Ir al taller aquí](/clase_1/Taller_matrices.md)**
 
 **PARTE 2.Taller de visualización y manipulación de archivos de árboles filogenéticos.** Para esta parte de la clase haremos un ejercicio práctico en R para visualizar y manipular árboles filogenéticos 
 
-**[Descargar taller aquí](/clase_5/Taller_arboles.md)**
+**[Ir al taller aquí](/clase_5/Taller_arboles.md)**
 
 #
 
@@ -69,7 +69,7 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 Como complemento de la clase, cada estudiante deberá hacer el siguiente taller y subrilo al Drive hasta el viernes 9 de abril de 2021:
 
-**[IR AL TALLER 2](/clase_2/Taller_2.md)**
+**[Ir al taller aquí](/clase_2/Taller_2.md)**
 
 
 **_NOTA:_** Leer los siguientes artículos para la clase del miércoles 7 de abril de 2021:
