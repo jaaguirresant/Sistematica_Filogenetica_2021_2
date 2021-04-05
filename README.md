@@ -67,7 +67,7 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
   <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/Clase_3/Strict.png" width="250" height="200" />
 </p>
 
-Como complemento de la clase, cada estudiante deberá hacer el siguiente taller y subrilo al Drive hasta el viernes 9 de abril de 2021:
+Como complemento de la clase, cada estudiante deberá hacer el siguiente taller y subirlo al Drive hasta el miércoles 14 de abril de 2021:
 
 **[Ir al taller aquí](/clase_2/Taller_2.md)**
 
