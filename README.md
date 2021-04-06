@@ -90,9 +90,6 @@ Como complemento de la clase, cada estudiante deberá hacer el siguiente taller 
 
 Finalmente, esta clase termina con una corta práctica computacional de inferencia filogenética con Máxima Parsimonia usando el programa TNT y el paquete Phangorn de R. 
 
-<p align="center">
-  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_4/Gastrotheca2.jpg" width="250" height="300" />
-</p>
 
 **_NOTA:_** Para la clase del jueves y viernes leer:
 
