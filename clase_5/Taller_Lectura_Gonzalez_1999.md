@@ -34,7 +34,3 @@ _[Volver a inicio](/README.md)_
 - subser. hexandrae
 - Euglypha
 - Holostylis
-
-10. ¿Por qué Gonzalez no transfirió todas las especies descritas de Euglyna y Holostylis a Aristolochia?
-
-11. ¿Cuál fue la conclusión final de este artículo?
