@@ -88,7 +88,7 @@ Como complemento de la clase, cada estudiante deberá hacer el siguiente taller 
 
 [Taller artículo González (1999)](/clase_5/Taller_Lectura_Gonzalez_1999.md). Subir las respuestas al Drive a más tardar el miércoles 14 de abril.
 
-Finalmente, esta clase termina con una corta práctica computacional de inferencia filogenética con Máxima Parsimonia usando el programa TNT y el paquete Phangorn de R. 
+Finalmente, esta clase termina con una corta práctica computacional de inferencia filogenética con Máxima Parsimonia usando el programa TNT y el paquete Phangorn de R. **[ir al taller aquí](/clase_4/Taller_MP2.md)**
 
 
 **_NOTA:_** Para la clase del jueves y viernes leer:
