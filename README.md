@@ -61,7 +61,11 @@ Para facilitar el trabajo autónomo de los estudiantes desde sus casas y minimiz
 
 #
 
-**[Clase 2](/clase_2/clase_2.pdf). Inferencia Filogenética: orígenes, criterio de optimalidad y máxima parsimonia.** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética. Además, se define el concepto de "criterio de optimalidad" para la inferencia filogenética y se presenta el primer método que incorpora este criterio: la Máxima Parsimonia (Descargar diapositivas [aquí](/clase_2/clase_2.pdf))
+** Clase 2. Presentaciones de proyectos semestrales**
+
+#
+
+**[Clase 3](/clase_2/clase_2.pdf). Inferencia Filogenética: orígenes, criterio de optimalidad y máxima parsimonia.** Esta clase hace una breve mención a los métodos que dieron origen a los métodos modernos de inferencia filogenética. Además, se define el concepto de "criterio de optimalidad" para la inferencia filogenética y se presenta el primer método que incorpora este criterio: la Máxima Parsimonia (Descargar diapositivas [aquí](/clase_2/clase_2.pdf))
 
 <p align="center">
   <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/Clase_3/Strict.png" width="250" height="200" />
@@ -80,3 +84,20 @@ Como complemento de la clase, cada estudiante deberá hacer el siguiente taller 
 
 #
 
+**[Clase 4](/clase_4/Taller_MP2.md). Búsqueda de árboles óptimos, medidas de confianza y práctica máxima parsimonia.** En la primera mitad de esta clase se explica el problema de la búsqueda de árboles óptimos en relación al número de taxones, así como las estrategias exactas y heurísicas para explorar el "espacio" de árboles posibles y árboles óptimos. Además, se explican los métodos tradicionales para medir la confianza en las hipótesis filogenéticas ([Descargar diapositivas aquí](/clase_4/clase_4.pdf)). En la segunda mitad de la clase se discutirá el artículo de [González 1999](/clase_3/Gonzalez_1999_Aristolochia.pdf). Como complemento para la discusión del artículo es necesario leer y responder las preguntas del siguiente enlace: 
+
+[Taller artículo González (1999)](/clase_5/Taller_Lectura_Gonzalez_1999.md). Subir las respuestas al Drive a más tardar el miércoles 14 de abril.
+
+Finalmente, esta clase termina con una corta práctica computacional de inferencia filogenética con Máxima Parsimonia usando el programa TNT y el paquete Phangorn de R. 
+
+<p align="center">
+  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_4/Gastrotheca2.jpg" width="250" height="300" />
+</p>
+
+**_NOTA:_** Para la clase del jueves y viernes leer:
+
+1. Modelos evolutivos: [Strimmer & Haeseler 2009](/clase_4/Modelos.pdf).
+
+2. Filogenética paramétrica: [Wiley & Lieberman 2011 - Capítulo 7](/clase_4/Parametric_Phylogenetics.pdf).
+
+3. Atracción de ramas largas: [Philippe et al. 2005](/clase_4/LBA_2005.pdf).
