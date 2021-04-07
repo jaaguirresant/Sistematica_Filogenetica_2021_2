@@ -1,19 +1,29 @@
-# Preguntas guíadas sobre Atracción de Ramas Largas y Modelos
 
-1. Explicar porqué el fenómeno de la "Atracción de Ramas Largas" es un problema metodológico de la Máxima Parsimonia y ha influido en la transición de los sistemáticos al uso de métodos probabilísticos para inferir hipótesis filogenéticas.
+´´´
+# Selección de modelos en R
 
-2. Explicar la diferencia entre distancia pareada (distancia observada) y distancia genética (distancia esperada). 
+# Abrir los paquetes
+library(ape)
+library(phangorn)
 
-3. ¿Que significa una sustitución en el contexto de las secuencias de ADN?
+# Leer los datos en formato phyDat
+primates <- read.phyDat("ADN.nex", format = "nexus")
 
-4. ¿Qué es y qué representa un modelo de sustitución? 
+# Usar la función modelTest (esta función calcula un árbol de NJ por default)
 
-5. ¿Cuáles son los supuestos de los modelos de sustitución?
+mt <- modelTest(primates)
 
-6. ¿Por qué un modelo permite estimar la distancia genética?
+# Veamos los valores de verosimilitud y las pruebas estadísticas comparativas
+print(mt)
 
-7. ¿Qué parámetros permite estimar un modelo de sustitución?
+mt[order(mt$AICc),] # Organizamos los datos de acuerdo a su valor de AICc (de menor a mayor)
+bestmodel <- mt$Model[which.min(mt$AICc)] # aislamos el mejor modelo
+bestmodel
 
-8. ¿Cómo se calcula la probabilidad de sustitución de nucleótidos en una posición determinada, de acuerdo al modelo JC69?
+# Si queremos ver las estimaciones de los parámetros del mejor modelo, podemos extraer la información así:
 
-9. En qué difieren y cómo se relacionan los distintos modelos de sustitución?
+env <- attr(mt, "env")
+ls(env=env)
+HKY_G <- get("HKY+G", env) 
+eval(HKY_G, env=env)
+´´´
