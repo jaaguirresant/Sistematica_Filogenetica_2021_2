@@ -1,4 +1,4 @@
-´´´
+'''
 # Selección de modelos en R
 
 # Abrir los paquetes
@@ -26,4 +26,4 @@ ls(env=env)
 HKY_G <- get("HKY+G", env) 
 eval(HKY_G, env=env)
 
-´´´
+'''
