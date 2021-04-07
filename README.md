@@ -107,7 +107,7 @@ Finalmente, esta clase termina con una corta práctica computacional de inferenc
   <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_7/Imagen_c7.jpg" width="250" height="270" />
 </p>
 
-**TAREA:** Leer los siguientes artículos y responder las preguntas del siguiente taller [Cuestionario LBA y modelos evoltivos](/clase_6/Taller_Lectura_Modelos.md)
+**TAREA:** Leer los siguientes artículos para la clase del viernes:
 
 1. Filogenética paramétrica: [Wiley & Lieberman 2011 - Capítulo 7](/clase_4/Parametric_Phylogenetics.pdf).
 
