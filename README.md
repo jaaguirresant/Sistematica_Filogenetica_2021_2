@@ -101,7 +101,7 @@ Finalmente, esta clase termina con una corta práctica computacional de inferenc
 
 #
 
-**Clase 5. Modelos evolutivos.** Esta clase se destinan a entender los conceptos básicos del uso de modelos evolutivos explícitos para la inferencia filogenética usando la máxima verosimilitud como criterio de opimalidad ([Descargar diapositivas aquí](/clase_7/clase_5.pdf)). Como parte práctica, se hará un ejercicio demostrativo sobre la escogencia de modelos usando jModelTest y R ([ver script aquí](/clase_6/Taller_Modelos.md)).
+**Clase 5. Modelos evolutivos de sustitución.** Esta clase se destinan a entender los conceptos básicos del uso de modelos evolutivos explícitos para la inferencia filogenética usando la máxima verosimilitud como criterio de opimalidad ([Descargar diapositivas aquí](/clase_7/clase_5.pdf)). Como parte práctica, se hará un ejercicio demostrativo sobre la escogencia de modelos usando jModelTest y R ([ver script aquí](/clase_6/Taller_Modelos.md)).
 
 <p align="center">
   <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_7/Imagen_c7.jpg" width="250" height="270" />
