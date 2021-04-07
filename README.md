@@ -101,21 +101,17 @@ Finalmente, esta clase termina con una corta práctica computacional de inferenc
 
 #
 
-
-
-#
-
-**Clase 5. Modelos evolutivos.** Esta clase se destinan a entender los conceptos básicos del uso de modelos evolutivos explícitos para la inferencia filogenética usando la máxima verosimilitud como criterio de opimalidad ([Descargar diapositivas aquí](/clase_7/clase_7.pdf)).
+**Clase 5. Modelos evolutivos.** Esta clase se destinan a entender los conceptos básicos del uso de modelos evolutivos explícitos para la inferencia filogenética usando la máxima verosimilitud como criterio de opimalidad ([Descargar diapositivas aquí](/clase_7/clase_7.pdf)). Como parte práctica, se hará un ejercicio demostrativo sobre la escogencia de modelos usando jModelTest y R.
 
 <p align="center">
   <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_7/Imagen_c7.jpg" width="250" height="270" />
 </p>
 
-[Cuestionario LBA y modelos evoltivos](/clase_6/Taller_Lectura_Modelos.md)
+**TAREA:** Leer los siguientes artículos y responder las preguntas del siguiente taller [Cuestionario LBA y modelos evoltivos](/clase_6/Taller_Lectura_Modelos.md)
 
-**NOTA:** Recuerden que para esta  y las próximas dos clases deben haber leído el siguiente capítulo:
+1. Filogenética paramétrica: [Wiley & Lieberman 2011 - Capítulo 7](/clase_4/Parametric_Phylogenetics.pdf).
 
-- Filogenética paramétrica: [Wiley & Lieberman 2011 - Capítulo 7](/clase_4/Parametric_Phylogenetics.pdf).
+2. Atracción de ramas largas: [Philippe et al. 2005](/clase_4/LBA_2005.pdf).
 
 #
 
