@@ -117,7 +117,7 @@ Finalmente, esta clase termina con una corta práctica computacional de inferenc
 
 **[Clase 6](/clase_7/Taller_ML_1.md). Máxima verosimilitud.** Esta clase se divide en dos partes:
 
-1. Charla sobre los fundamentos de la máxima verosimilitud como criterio de opimalidad ([Descargar diapositivas aquí](/clase_7/clase_7.pdf)). 
+1. Charla sobre los fundamentos de la máxima verosimilitud como criterio de opimalidad ([Descargar diapositivas aquí](/clase_7/clase_6.pdf)). 
 
    - **Tarea.** Realizar los ejercicios del siguiente taller: [TALLER MV](/clase_7/Taller_ML_1.md)
 
