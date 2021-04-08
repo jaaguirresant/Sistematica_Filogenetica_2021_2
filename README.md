@@ -115,15 +115,18 @@ Finalmente, esta clase termina con una corta práctica computacional de inferenc
 
 #
 
-**[Clase 6](/clase_7/Taller_ML_1.md). Máxima verosimilitud.** Esta clase se divide en dos partes:
+**[Clases 6 y 7](/clase_7/Taller_ML_1.md). Máxima verosimilitud.** Estas clases se dividen en dos partes:
 
 1. Charla sobre los fundamentos de la máxima verosimilitud como criterio de opimalidad ([Descargar diapositivas aquí](/clase_7/clase_6.pdf)). 
 
    - **Tarea.** Realizar los ejercicios del siguiente taller: [TALLER MV](/clase_7/Taller_ML_1.md)
 
-2. Taller de inferencia filogenética usando la Máxima Verosimilitud en R: [ir al Script de R aquí](/clase_8/ML.R). Para este taller usaremos la matriz de ADN de primates del siguiente enlace: [ADN.nex](/clase_1/ADN.nex). 
+2. Taller de software para Máxima Verosimilitud: 
 
-   - **NOTA:** Se recomienda que los estudiantes realicen el ejercicio previo a la clase y se preparen para explicarlo. Casi todo el ejercicio fue tomado y modificado del siguiente artículo: [Schliep (2019)](/clase_8/Phangorn.pdf).
+- Máxima verosimilitud en R [ir al Script de R aquí](/clase_8/ML.R). Para este taller usaremos la matriz de ADN de primates del siguiente enlace: [ADN.nex](/clase_1/ADN.nex). 
+- Máxima verosimilitud en RAxML
+
+   - **NOTA:** Para la práctica con R se recomienda que los estudiantes realicen el ejercicio previo a la clase y se preparen para explicarlo. Casi todo el ejercicio fue tomado y modificado del siguiente artículo: [Schliep (2019)](/clase_8/Phangorn.pdf).
 
    - **Tarea.** Responder las preguntas del Script. 
 
