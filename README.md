@@ -112,3 +112,20 @@ Finalmente, esta clase termina con una corta práctica computacional de inferenc
 1. Filogenética paramétrica: [Wiley & Lieberman 2011 - Capítulo 7](/clase_4/Parametric_Phylogenetics.pdf).
 
 2. Atracción de ramas largas: [Philippe et al. 2005](/clase_4/LBA_2005.pdf).
+
+#
+
+**[Clase 6](/clase_7/Taller_ML_1.md). Máxima verosimilitud.** Esta clase se divide en dos partes:
+
+1. Charla sobre los fundamentos de la máxima verosimilitud como criterio de opimalidad ([Descargar diapositivas aquí](/clase_7/clase_7.pdf)). 
+
+   - **Tarea.** Realizar los ejercicios del siguiente taller: [TALLER MV](/clase_7/Taller_ML_1.md)
+
+2. Taller de inferencia filogenética usando la Máxima Verosimilitud en R: [ir al Script de R aquí](/clase_8/ML.R). Para este taller usaremos la matriz de ADN de primates del siguiente enlace: [ADN.nex](/clase_1/ADN.nex). 
+
+   - **NOTA:** Se recomienda que los estudiantes realicen el ejercicio previo a la clase y se preparen para explicarlo. Casi todo el ejercicio fue tomado y modificado del siguiente artículo: [Schliep (2019)](/clase_8/Phangorn.pdf).
+
+   - **Tarea.** Responder las preguntas del Script. 
+
+#
+
