@@ -11,7 +11,7 @@ Usando la matriz de probabilidad de sustitución del modelo de Jukes & Cantor (1
 1. Calcule la verosimilitud del siguiente árbol que solamente tiene una rama de longitud conocida:
 
 <p align="center">
-  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_7/p1.jpeg" width="600" height="600" />
+  <img src="https://github.com/jaaguirresant/Sistematica-Filogenetica/blob/master/clase_7/p7.jpg" width="600" height="600" />
 </p>
 
 2. Calcule la verosimilitud del siguiente árbol de tres ramas de longitud conocida:
