@@ -139,7 +139,7 @@ Finalmente, esta clase termina con una corta práctica computacional de inferenc
 
 Para la práctica usaremos la matriz [ADN.nex](/clase_1/ADN.nex) y analizaremos los resultados con los programas : [FigTree](https://github.com/rambaut/figtree/releases) y [Tracer](https://github.com/beast-dev/tracer/releases/tag/v1.7.1).
 
-**Nota:** Las siguientes lecturas son excelentes complementos para la clase: [Hueselnbeck & Roquist (2004)](/clase_9/Bayesiano_1.pdf) y [Huelsenbeck et al (2002)](/clase_9/Bayesiano_2.pdf)
+**Nota:** La siguiente lecturas es un excelente complementos para la clase: [Huelsenbeck et al (2002)](/clase_9/Bayesiano_2.pdf)
 
 **Tarea:** Leer para la próxima clase el siguiente artículo: [Sanderson & Schauffer (2002)](/clase_9/Lectura.pdf).
 
