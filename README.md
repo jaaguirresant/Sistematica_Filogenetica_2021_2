@@ -137,7 +137,7 @@ Finalmente, esta clase termina con una corta práctica computacional de inferenc
   <img src="https://anabelforte.com/wp-content/uploads/2020/04/Thomas_Bayes.gif" width="250" height="270" />
 </p>
 
-Para la práctica usaremos la matriz [ADN.nex](/clase_1/ADN.nex) y analizaremos los resultados con los programas : [FigTree](https://github.com/rambaut/figtree/releases) y [Tracer](https://github.com/beast-dev/tracer/releases/tag/v1.7.1). Para visualizar resultados de MCMC.
+Para la práctica usaremos la matriz [ADN.nex](/clase_1/ADN.nex) y analizaremos los resultados con los programas : [FigTree](https://github.com/rambaut/figtree/releases) y [Tracer](https://github.com/beast-dev/tracer/releases/tag/v1.7.1).
 
 **Nota:** Las siguientes lecturas son excelentes complementos para la clase: [Hueselnbeck & Roquist (2004)](/clase_9/Bayesiano_1.pdf) y [Huelsenbeck et al (2002)](/clase_9/Bayesiano_2.pdf)
 
